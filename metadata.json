@@ -1,0 +1,6 @@
+{
+  "name": "Symphony",
+  "description": "Sleek, dark-themed music streaming and playlist creation app inspired by Spotify and JioSaavn with high-quality streaming support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
